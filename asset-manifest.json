@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sign-calculator/static/css/main.9248c424.css",
+    "main.js": "/sign-calculator/static/js/main.6143eb43.js",
+    "static/js/453.5c6b3907.chunk.js": "/sign-calculator/static/js/453.5c6b3907.chunk.js",
+    "static/media/r1-1.png": "/sign-calculator/static/media/r1-1.33637e1f286fe1db4153.png",
+    "index.html": "/sign-calculator/index.html",
+    "main.9248c424.css.map": "/sign-calculator/static/css/main.9248c424.css.map",
+    "main.6143eb43.js.map": "/sign-calculator/static/js/main.6143eb43.js.map",
+    "453.5c6b3907.chunk.js.map": "/sign-calculator/static/js/453.5c6b3907.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9248c424.css",
+    "static/js/main.6143eb43.js"
+  ]
+}
